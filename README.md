@@ -4,4 +4,4 @@
 
 Acrylic on Canvas © 2019 Taylor Lucas Barrett
 
-TODO: description
+[Alternate views.](https://github.com/taylorbarrett/commit-aviation/tree/master/images)
